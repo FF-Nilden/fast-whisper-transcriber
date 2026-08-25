@@ -1,4 +1,4 @@
-﻿faster-whisper>=1.0.0
-soundfile>=0.12.0
-numpy>=1.24.0
-sherpa-onnx>=1.10.0
+faster-whisper>=1.0.0
+
+# Opzionale, solo per il calcolo del WER in benchmark.py:
+# jiwer>=3.0.0
