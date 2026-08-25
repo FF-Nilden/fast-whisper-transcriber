@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "source_file": "C:\\Users\\franc\\Desktop\\Esperimenti\\Test_Whisper\\sample_audio\\lezione_universitaria_16k",
+    "audio_duration_seconds": 180.0,
+    "transcription_time_seconds": 86.4,
+    "speedup_realtime": 2.08,
+    "realtime_factor": 0.48,
+    "total_segments": 28,
+    "total_words": 351
+  },
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.44,
+      "end": 1.78,
+      "text": "Questo non è ammissibile."
+    },
+    {
+      "id": 2,
+      "start": 3.75,
+      "end": 10.69,
+      "text": "Poi, ovviamente, concetto di limite, ma soprattutto derivate e integrali semplici."
+    },
+    {
+      "id": 3,
+      "start": 11.32,
+      "end": 16.68,
+      "text": "Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere."
+    },
+    {
+      "id": 4,
+      "start": 16.68,
+      "end": 21.5,
+      "text": "E una delle cose che io cerco di approfondire in questo corso"
+    },
+    {
+      "id": 5,
+      "start": 21.5,
+      "end": 27.24,
+      "text": "è il legame che esiste fra la natura analitica delle equazioni di fisica"
+    },
+    {
+      "id": 6,
+      "start": 27.24,
+      "end": 29.96,
+      "text": "e la natura grafica."
+    },
+    {
+      "id": 7,
+      "start": 29.96,
+      "end": 38.0,
+      "text": "in modo che cominciamo a costruire un'immaginazione della fisica che sia grafica."
+    },
+    {
+      "id": 8,
+      "start": 38.77,
+      "end": 41.61,
+      "text": "Vedete un grafico, sapete l'equazione che ci sta dietro."
+    },
+    {
+      "id": 9,
+      "start": 42.09,
+      "end": 46.89,
+      "text": "Questo è un esponenziale, questo è un iperbole, un ramo di iperbole."
+    },
+    {
+      "id": 10,
+      "start": 47.5,
+      "end": 49.78,
+      "text": "Questo vi aiuta veramente molto."
+    },
+    {
+      "id": 11,
+      "start": 50.28,
+      "end": 53.62,
+      "text": "Ma siccome faremo anche esercizi di questo tipo, io vi do il grafico e vi dico bene,"
+    },
+    {
+      "id": 12,
+      "start": 53.72,
+      "end": 58.28,
+      "text": "adesso dimmi che cosa sta succedendo, oppure vi dico cosa sta succedendo"
+    },
+    {
+      "id": 13,
+      "start": 58.28,
+      "end": 69.24,
+      "text": "e vi dico bene, adesso fate tutti i grafici che si riferiscono ad esempio al moto dell'oggetto di cui stiamo studiando il comportamento."
+    },
+    {
+      "id": 14,
+      "start": 70.3,
+      "end": 77.72,
+      "text": "Quindi geometria analitica, trigomatria, derivate integrali e ovviamente algebra vettoriale."
+    },
+    {
+      "id": 15,
+      "start": 77.82,
+      "end": 79.38,
+      "text": "L'avete fatta? Ok."
+    },
+    {
+      "id": 16,
+      "start": 80.19,
+      "end": 85.58,
+      "text": "Cos'è un vettore? Cos'è un versore? Cos'è un sistema di riferimento?"
+    },
+    {
+      "id": 17,
+      "start": 85.58,
+      "end": 91.9,
+      "text": "uno spazio vettoriale, una base dello spazio vettoriale, cos'è un prodotto scalare, cos'è un"
+    },
+    {
+      "id": 18,
+      "start": 91.9,
+      "end": 100.94,
+      "text": "prodotto vettoriale. Poi chiaramente facendo gli esercizi sapete queste cose saltano fuori e"
+    },
+    {
+      "id": 19,
+      "start": 100.94,
+      "end": 105.81,
+      "text": "eventualmente se c'è qualche dubbio li prendiamo in mano insomma. Però in linea di principio queste"
+    },
+    {
+      "id": 20,
+      "start": 105.81,
+      "end": 115.4,
+      "text": "sono le cose che dovete sapere. Il corso consiste in meccanica e termodinamica, sono due parti"
+    },
+    {
+      "id": 21,
+      "start": 115.4,
+      "end": 126.65,
+      "text": "separate, meccanica del Settecento, termodinamica di un secolo dopo. Sono due branche affascinanti"
+    },
+    {
+      "id": 22,
+      "start": 126.65,
+      "end": 134.09,
+      "text": "della fisica, di più la termodinamica perché è una cosa moderna, è una cosa che arriva a definire"
+    },
+    {
+      "id": 23,
+      "start": 134.09,
+      "end": 139.43,
+      "text": "l'entropia che è una parola che avete sentito nominare tutti, per cui la termodinamica è quella"
+    },
+    {
+      "id": 24,
+      "start": 139.43,
+      "end": 147.26,
+      "text": "che ci racconta che cosa succede. La meccanica è lo studio dei moti, degli oggetti e quindi"
+    },
+    {
+      "id": 25,
+      "start": 147.26,
+      "end": 153.46,
+      "text": "costituisce un pochino la base per definire alcune leggi che poi valgono sempre e comunque"
+    },
+    {
+      "id": 26,
+      "start": 153.46,
+      "end": 167.2,
+      "text": "qualsiasi oggetto sia, che sia un pianeta, che sia un elettrone. Ok? Allora, sapete perché è"
+    },
+    {
+      "id": 27,
+      "start": 167.2,
+      "end": 172.98,
+      "text": "interessante la Fisica 1 in particolare? Perché è una delle poche discipline scientifiche"
+    },
+    {
+      "id": 28,
+      "start": 172.98,
+      "end": 179.99,
+      "text": "assiomatizzate. Cosa vuol dire questo? Vuol dire che, assieme alla geometria euclidea,"
+    }
+  ]
+}

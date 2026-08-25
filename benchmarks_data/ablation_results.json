@@ -1,0 +1,93 @@
+[
+  {
+    "pipeline": "1. Pure Raw (No VAD, No Denoise, No RMS) - 2 Thread",
+    "threads": 2,
+    "use_vad": false,
+    "prep_time_ms": 0.0,
+    "transcribe_time_s": 90.64077619999989,
+    "total_time_s": 90.64077619999989,
+    "rtf": 0.5035598677777772,
+    "speed_realtime": 1.98586119345258,
+    "num_segments": 22,
+    "word_count": 498,
+    "text_preview": "Questo non è ammissibile. Poi ovviamente concetto di limite ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano non solo del matematico ma del fisico e dell'ingegnere. E una dell"
+  },
+  {
+    "pipeline": "2. Pure Raw (No VAD, No Denoise, No RMS) - 4 Thread",
+    "threads": 4,
+    "use_vad": false,
+    "prep_time_ms": 0.0,
+    "transcribe_time_s": 157.22158899999977,
+    "total_time_s": 157.22158899999977,
+    "rtf": 0.8734532722222209,
+    "speed_realtime": 1.144880936167108,
+    "num_segments": 22,
+    "word_count": 498,
+    "text_preview": "Questo non è ammissibile. Poi ovviamente concetto di limite ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano non solo del matematico ma del fisico e dell'ingegnere. E una dell"
+  },
+  {
+    "pipeline": "3. VAD Only (Silero VAD) - 2 Thread",
+    "threads": 2,
+    "use_vad": true,
+    "prep_time_ms": 0.0,
+    "transcribe_time_s": 85.66449310000007,
+    "total_time_s": 85.66449310000007,
+    "rtf": 0.47591385055555596,
+    "speed_realtime": 2.1012206281297643,
+    "num_segments": 41,
+    "word_count": 350,
+    "text_preview": "Questo non è ammissibile. Poi, ovviamente, concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere. E una"
+  },
+  {
+    "pipeline": "4. VAD Only (Silero VAD) - 4 Thread",
+    "threads": 4,
+    "use_vad": true,
+    "prep_time_ms": 0.0,
+    "transcribe_time_s": 193.92893719999938,
+    "total_time_s": 193.92893719999938,
+    "rtf": 1.077382984444441,
+    "speed_realtime": 0.9281750449359992,
+    "num_segments": 41,
+    "word_count": 350,
+    "text_preview": "Questo non è ammissibile. Poi, ovviamente, concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere. E una"
+  },
+  {
+    "pipeline": "5. RMS + Silero VAD - 2 Thread",
+    "threads": 2,
+    "use_vad": true,
+    "prep_time_ms": 7.728399999905378,
+    "transcribe_time_s": 269.37517389999994,
+    "total_time_s": 269.38290229999984,
+    "rtf": 1.4965716794444435,
+    "speed_realtime": 0.6681938551524772,
+    "num_segments": 22,
+    "word_count": 350,
+    "text_preview": "Questo non è ammissibile. Poi ovviamente concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere. E una d"
+  },
+  {
+    "pipeline": "6. RMS + Silero VAD - 4 Thread",
+    "threads": 4,
+    "use_vad": true,
+    "prep_time_ms": 7.728399999905378,
+    "transcribe_time_s": 325.4324908999997,
+    "total_time_s": 325.4402192999996,
+    "rtf": 1.8080012183333312,
+    "speed_realtime": 0.5530969724245149,
+    "num_segments": 22,
+    "word_count": 350,
+    "text_preview": "Questo non è ammissibile. Poi ovviamente concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere. E una d"
+  },
+  {
+    "pipeline": "7. Denoise (noisereduce) + Silero VAD - 4 Thread",
+    "threads": 4,
+    "use_vad": true,
+    "prep_time_ms": 1009.4894000003478,
+    "transcribe_time_s": 248.31349489999957,
+    "total_time_s": 249.32298429999992,
+    "rtf": 1.3851276905555552,
+    "speed_realtime": 0.7219550997489005,
+    "num_segments": 24,
+    "word_count": 392,
+    "text_preview": "Questo non è ammissibile. Poi ovviamente concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere. E una d"
+  }
+]

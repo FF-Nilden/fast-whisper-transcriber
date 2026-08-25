@@ -1,0 +1,112 @@
+1
+00:00:00,440 --> 00:00:01,780
+Questo non è ammissibile.
+
+2
+00:00:03,750 --> 00:00:10,689
+Poi, ovviamente, concetto di limite, ma soprattutto derivate e integrali semplici.
+
+3
+00:00:11,320 --> 00:00:16,679
+Quello è il pane quotidiano, non solo del matematico, ma del fisico e dell'ingegnere.
+
+4
+00:00:16,679 --> 00:00:21,500
+E una delle cose che io cerco di approfondire in questo corso
+
+5
+00:00:21,500 --> 00:00:27,239
+è il legame che esiste fra la natura analitica delle equazioni di fisica
+
+6
+00:00:27,239 --> 00:00:29,960
+e la natura grafica.
+
+7
+00:00:29,960 --> 00:00:38,000
+in modo che cominciamo a costruire un'immaginazione della fisica che sia grafica.
+
+8
+00:00:38,770 --> 00:00:41,609
+Vedete un grafico, sapete l'equazione che ci sta dietro.
+
+9
+00:00:42,090 --> 00:00:46,890
+Questo è un esponenziale, questo è un iperbole, un ramo di iperbole.
+
+10
+00:00:47,500 --> 00:00:49,780
+Questo vi aiuta veramente molto.
+
+11
+00:00:50,280 --> 00:00:53,619
+Ma siccome faremo anche esercizi di questo tipo, io vi do il grafico e vi dico bene,
+
+12
+00:00:53,719 --> 00:00:58,280
+adesso dimmi che cosa sta succedendo, oppure vi dico cosa sta succedendo
+
+13
+00:00:58,280 --> 00:01:09,239
+e vi dico bene, adesso fate tutti i grafici che si riferiscono ad esempio al moto dell'oggetto di cui stiamo studiando il comportamento.
+
+14
+00:01:10,299 --> 00:01:17,719
+Quindi geometria analitica, trigomatria, derivate integrali e ovviamente algebra vettoriale.
+
+15
+00:01:17,819 --> 00:01:19,379
+L'avete fatta? Ok.
+
+16
+00:01:20,189 --> 00:01:25,579
+Cos'è un vettore? Cos'è un versore? Cos'è un sistema di riferimento?
+
+17
+00:01:25,579 --> 00:01:31,900
+uno spazio vettoriale, una base dello spazio vettoriale, cos'è un prodotto scalare, cos'è un
+
+18
+00:01:31,900 --> 00:01:40,939
+prodotto vettoriale. Poi chiaramente facendo gli esercizi sapete queste cose saltano fuori e
+
+19
+00:01:40,939 --> 00:01:45,810
+eventualmente se c'è qualche dubbio li prendiamo in mano insomma. Però in linea di principio queste
+
+20
+00:01:45,810 --> 00:01:55,400
+sono le cose che dovete sapere. Il corso consiste in meccanica e termodinamica, sono due parti
+
+21
+00:01:55,400 --> 00:02:06,650
+separate, meccanica del Settecento, termodinamica di un secolo dopo. Sono due branche affascinanti
+
+22
+00:02:06,650 --> 00:02:14,090
+della fisica, di più la termodinamica perché è una cosa moderna, è una cosa che arriva a definire
+
+23
+00:02:14,090 --> 00:02:19,430
+l'entropia che è una parola che avete sentito nominare tutti, per cui la termodinamica è quella
+
+24
+00:02:19,430 --> 00:02:27,259
+che ci racconta che cosa succede. La meccanica è lo studio dei moti, degli oggetti e quindi
+
+25
+00:02:27,259 --> 00:02:33,460
+costituisce un pochino la base per definire alcune leggi che poi valgono sempre e comunque
+
+26
+00:02:33,460 --> 00:02:47,199
+qualsiasi oggetto sia, che sia un pianeta, che sia un elettrone. Ok? Allora, sapete perché è
+
+27
+00:02:47,199 --> 00:02:52,979
+interessante la Fisica 1 in particolare? Perché è una delle poche discipline scientifiche
+
+28
+00:02:52,979 --> 00:02:59,990
+assiomatizzate. Cosa vuol dire questo? Vuol dire che, assieme alla geometria euclidea,
+

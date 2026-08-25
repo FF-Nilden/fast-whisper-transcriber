@@ -1,0 +1,42 @@
+﻿# Ambiente virtuale Python
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Modelli e pesi pesanti (scaricati automaticamente a runtime)
+models/
+*.bin
+*.pt
+*.onnx
+
+# File audio personali / non di test
+*.mp3
+*.m4a
+*.mp4
+*.aac
+*.flac
+*.wav
+!sample_audio/lezione_universitaria_16k.wav
+
+# Output generati (mantiene requirements.txt e i benchmark)
+*.txt
+!requirements.txt
+*.srt
+*.vtt
+*.json
+!sample_audio/lezione_universitaria_16k.*
+!benchmarks_data/*.json
+
+# Log e file di sistema
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

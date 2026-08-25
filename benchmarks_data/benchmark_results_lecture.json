@@ -1,0 +1,130 @@
+{
+  "audio_duration_sec": 180.0,
+  "vad": [
+    {
+      "name": "WebRTC VAD (Aggressività 1)",
+      "time_ms": 18.694200000027195,
+      "rtf": 0.00010385666666681774,
+      "speech_sec": 164.73,
+      "silence_cut_sec": 15.27000000000001,
+      "speech_pct": 91.51666666666665
+    },
+    {
+      "name": "WebRTC VAD (Aggressività 2)",
+      "time_ms": 16.13149999957386,
+      "rtf": 8.961944444207701e-05,
+      "speech_sec": 159.42,
+      "silence_cut_sec": 20.580000000000013,
+      "speech_pct": 88.56666666666666
+    },
+    {
+      "name": "WebRTC VAD (Aggressività 3)",
+      "time_ms": 16.03750000049331,
+      "rtf": 8.909722222496283e-05,
+      "speech_sec": 132.96,
+      "silence_cut_sec": 47.03999999999999,
+      "speech_pct": 73.86666666666667
+    },
+    {
+      "name": "Silero VAD (Sherpa-ONNX C++)",
+      "time_ms": 756.3979000005929,
+      "rtf": 0.004202210555558849,
+      "speech_sec": 142.37400000000002,
+      "silence_cut_sec": 37.625999999999976,
+      "speech_pct": 79.09666666666668
+    }
+  ],
+  "denoise": [
+    {
+      "name": "Spectral Gating (noisereduce)",
+      "time_ms": 922.7498000000196,
+      "rtf": 0.005126387777777887
+    },
+    {
+      "name": "Dynamic Normalization (RMS)",
+      "time_ms": 8.428699999967648,
+      "rtf": 4.682611111093138e-05
+    }
+  ],
+  "asr": [
+    {
+      "name": "Faster-Whisper Large-v3-Turbo (2 Thr)",
+      "engine": "Faster-Whisper (CTranslate2 INT8)",
+      "threads": 2,
+      "time_sec": 89.99467370000002,
+      "rtf": 0.49997040944444454,
+      "speed_realtime": 2.0001183692274442,
+      "num_segments": 22,
+      "sample_text": "Questo non è ammissibile. Poi ovviamente concetto di limite ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano non solo del mat"
+    },
+    {
+      "name": "Faster-Whisper Large-v3-Turbo (4 Thr)",
+      "engine": "Faster-Whisper (CTranslate2 INT8)",
+      "threads": 4,
+      "time_sec": 65.79050109999935,
+      "rtf": 0.36550278388888524,
+      "speed_realtime": 2.735957273321358,
+      "num_segments": 22,
+      "sample_text": "Questo non è ammissibile. Poi ovviamente concetto di limite ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano non solo del mat"
+    },
+    {
+      "name": "Faster-Whisper Large-v3-Turbo (4 Thr) + VAD",
+      "engine": "Faster-Whisper (CTranslate2 INT8)",
+      "threads": 4,
+      "time_sec": 50.11976709999999,
+      "rtf": 0.2784431505555555,
+      "speed_realtime": 3.591397375028904,
+      "num_segments": 41,
+      "sample_text": "Questo non è ammissibile. Poi, ovviamente, concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del"
+    },
+    {
+      "name": "Faster-Whisper Large-v3-Turbo + Denoise + VAD",
+      "engine": "Faster-Whisper (CTranslate2 INT8)",
+      "threads": 4,
+      "time_sec": 65.81468159999986,
+      "rtf": 0.3656371199999992,
+      "speed_realtime": 2.7349520748878073,
+      "num_segments": 24,
+      "sample_text": "Questo non è ammissibile. Poi ovviamente concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del m"
+    },
+    {
+      "name": "Faster-Whisper Medium (4 Thr)",
+      "engine": "Faster-Whisper (CTranslate2 INT8)",
+      "threads": 4,
+      "time_sec": 153.33751180000036,
+      "rtf": 0.8518750655555576,
+      "speed_realtime": 1.173881054198765,
+      "num_segments": 25,
+      "sample_text": "Questo non è ammissibile. Poi ovviamente concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del m"
+    },
+    {
+      "name": "Faster-Whisper Small (4 Thr)",
+      "engine": "Faster-Whisper (CTranslate2 INT8)",
+      "threads": 4,
+      "time_sec": 71.20028400000047,
+      "rtf": 0.3955571333333359,
+      "speed_realtime": 2.5280798037266092,
+      "num_segments": 29,
+      "sample_text": "Questo non è ammissibile. Poi ovviamente concetto di limite, ma soprattutto derivate e integrali semplici. Quello è il pane quotidiano, non solo del m"
+    }
+  ],
+  "diarization": [
+    {
+      "name": "PyAnnote 3.0 ONNX + 3D-Speaker Cam++",
+      "time_sec": 77.31791950000024,
+      "rtf": 0.4295439972222236,
+      "speed_realtime": 2.3280502264420013,
+      "num_segments": 22,
+      "speakers_found": [
+        "speaker_00"
+      ],
+      "sample_turns": [
+        "0:00:00.570 --> 0:00:01.904 speaker_00",
+        "0:00:03.102 --> 0:00:10.729 speaker_00",
+        "0:00:11.252 --> 0:00:12.923 speaker_00",
+        "0:00:13.733 --> 0:00:16.754 speaker_00",
+        "0:00:17.631 --> 0:00:38.084 speaker_00"
+      ]
+    }
+  ]
+}
